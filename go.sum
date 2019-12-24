@@ -1,0 +1,16 @@
+github.com/daviddengcn/go-villa v0.0.0-20160111144444-3f35da8ba982 h1:2Trx4ntMtxmus9nN2w1PIqJOI8jB3RjlnDnFm/ImlIU=
+github.com/daviddengcn/go-villa v0.0.0-20160111144444-3f35da8ba982/go.mod h1:U8xNoHcXfPnZzy9zCxeKRjaJgC1d3613rFHjZVVAqKc=
+github.com/golangplus/bytes v0.0.0-20160111154220-45c989fe5450 h1:7xqw01UYS+KCI25bMrPxwNYkSns2Db1ziQPpVq99FpE=
+github.com/golangplus/bytes v0.0.0-20160111154220-45c989fe5450/go.mod h1:Bk6SMAONeMXrxql8uvOKuAZSu8aM5RUGv+1C6IJaEho=
+github.com/golangplus/errors v0.0.0-20160304064430-f1ba61c5c216 h1:c3hQBDXqTa6bNQK/Fx00CXQdGOLOgTQ/6anWeuQ6/6Y=
+github.com/golangplus/errors v0.0.0-20160304064430-f1ba61c5c216/go.mod h1:gygA5GlOmd7RjdXny6lfCPBokotKSZo18gWBfYyLJVU=
+github.com/golangplus/fmt v0.0.0-20150411045040-2a5d6d7d2995 h1:f5gsjBiF9tRRVomCvrkGMMWI8W1f2OBFar2c5oakAP0=
+github.com/golangplus/fmt v0.0.0-20150411045040-2a5d6d7d2995/go.mod h1:lJgMEyOkYFkPcDKwRXegd+iM6E7matEszMG5HhwytU8=
+github.com/golangplus/sort v0.0.0-20160821213012-8253da0d33c1 h1:SAa/oX7Dlm9gEfZGnLW9gtT42QufjbDZhIL8kV++1kY=
+github.com/golangplus/sort v0.0.0-20160821213012-8253da0d33c1/go.mod h1:QfPzxzvnnTTxeT9BlGNopDfHRXm1ITdu9ZBkwK1X7eA=
+github.com/golangplus/strings v0.0.0-20160403201947-23cecc559c21 h1:WBjjJkSOW0tjGAXqDzC0GpE8c8eg7ZAOj29GeAkkNmk=
+github.com/golangplus/strings v0.0.0-20160403201947-23cecc559c21/go.mod h1:QnpAokiUVWN1n/5BEwabHDjM8+qEPG0omyioQICHTA8=
+github.com/golangplus/testing v0.0.0-20180327235837-af21d9c3145e h1:KhcknUwkWHKZPbFy2P7jH5LKJ3La+0ZeknkkmrSgqb0=
+github.com/golangplus/testing v0.0.0-20180327235837-af21d9c3145e/go.mod h1:0AA//k/eakGydO4jKRoRL2j92ZKSzTgj9tclaCrvXHk=
+gopkg.in/russross/blackfriday.v1 v1.5.1 h1:/G8rrKhg8HTP6/VLtuQLbNSXHUzpDdNqZS5umeauNvc=
+gopkg.in/russross/blackfriday.v1 v1.5.1/go.mod h1:NAEMj3mL3YDCD1Mxuzav3y8y68EZs2OnJ9xdWYLES00=

@@ -6,7 +6,7 @@ import (
 
 	"github.com/golangplus/testing/assert"
 
-	"github.com/russross/blackfriday"
+	"gopkg.in/russross/blackfriday.v1"
 )
 
 func TestParseMarkdown_bug(t *testing.T) {

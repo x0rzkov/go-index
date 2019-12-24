@@ -3,7 +3,7 @@ package index
 import (
 	"bytes"
 
-	"github.com/russross/blackfriday"
+	"gopkg.in/russross/blackfriday.v1"
 )
 
 // data-structure for a link
